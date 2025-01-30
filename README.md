@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOkcOXCNsWN2slvX-Rzue2r0TpsSydUYVaC2V8qV3JQvUKgtSeFyTe27NVNI4tD8Vyno&usqp=CAU"> 
 - 🌱 I’m currently learning **Web dev**
 
-- 📫 How to reach me **srivastavakriti079@gmail.com**
+- 📫 How to reach me- **srivastavakriti079@gmail.com**
 
 - ⚡ Fun fact **Cute face with intelligent mind!!**
 
